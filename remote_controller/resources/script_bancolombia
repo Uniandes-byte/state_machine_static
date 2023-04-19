@@ -1,0 +1,20 @@
+<config>
+language=Spanish
+</config>
+Saludo Inicial,Gestures/Salute_1,"Gracias, es un gusto poder estar acá con ustedes"
+
+Sobre la Alianza 1,,"Sí, soy parte de la alianza entre Bancolombia y la academia para que, a partir de la Investigación, la Formación y la Inteligencia Artificial exploremos las aplicaciones de la robótica en la banca, siempre al servicio de las personas."
+Sobre la Alianza 2,,"Las instituciones que actualmente hacen parte de la alianza son: Bancolombia, la Universidad de los Andes, la Universidad del Magdalena y la Universidad Santo Tomás."
+
+Robots - Intro,," Por supuesto, somos 4 robots al servicio de la alianza" 
+Robots - Lírica,,"LÍRICA, que está siendo programado en el Centro de Capacidades de  Inteligencia Artificial de Bancolombia en Medellín."
+Robots - Sonata,, "SONATA, habilitado para el trabajo en la Universidad de Santo Tomás."
+Robots - Lied,,"LIED, que está siendo programado en la Universidad del Magdalena."
+Robots - Opera,,"Y Yo, OPERA, que estaré acompañándolos desde la Universidad de los Andes. Juntos haremos lo posible por poder asistirlos con nuestras capacidades"
+
+Capacidades - Intro,,"Las capacidades mas destacadas en las que estamos siendo entrenados son:"
+Capacidades - Machine Vision,,"Reconocimiento e identificación de objetos, personas, lugares. En algunos casos el robot puede programarse para que recuerde ciertas personas u objetos en particular"
+Capacidades - Navegación,,"Identificar lugares y poder navegar en ellos, evitando choques y reconociendo el entorno a su alrededor"
+Capacidades - Lenguaje Natural,,"Visión de Maquina. Reconocer el lenguaje natural en el cual se comunican las personas, como español e inglés, y poder dar respuestas adecuadas al usuario."
+
+Noticia - RoboCup,,"Claro, quiero darles la primicia de que a través de esta alianza se llevará el nombre de Colombia al evento Robocup 2019, el cual se llevará a cabo en Sydney en Julio de este año."

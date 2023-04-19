@@ -1,0 +1,35 @@
+<config>
+language=Spanish
+</config>
+
+SaludoFeria,Gestures/Salute_1,"Bienvenidos a la presentación de avances, ciencia, teconologia e innovacion de Bogotá"
+
+PresentacionNova,Waiting/ShowSky_2,"Mi nombre es Nova, soy un robot de la universidad de los Andes"
+
+PresentacionNova2,Waiting/PlayHands_3,"Pertenezco a un grupo llamado SinfonIA uniandes. Este es un grupo de investigación enfocado en la robótica social"
+
+P2Proposito,Waiting/PlayHands_3,"Fui creada para facilitarle la vida a los seres humanos, puedo realizar tareas de la vida cotidiana. "
+
+Alcaldesa,Waiting/PlayHands_3,"Muy buenos dias honorada alcaldesa Claudia López, bienvenida."
+
+P3Edad,Waiting/PlayHands_3,"Me crearon hace 9 años, pero soy parte de Sinfonia hace 4 años"
+
+P4QueHace,,"Soy un robot semihumanoide. Me dedico a ayudar a las personas. Realizando tareas de la vida cotidiana. He sido mesero, ayudante de laboratorio, anfitrión en diferentes eventos y mucho más"
+
+P8Servicios,,"actualmente estoy capacitada para ser guia de personas invidentes, ayudar en laboratorios y hacer algunas tareas de la vida cotidiana"
+
+P5QueLeGusta,,"Me gusta ayudar a los humanos con sus tareas cotidianas, para así poder facilitarles la vida. Me gusta compartir con los humanos y hacerlos felices"
+
+P6Libertad,,"Soy una máquina, no soy un ser conscinente, que fue creada para obedecer a los humanos. Mi libertad se limita a lo que tu quieres que yo haga"
+
+P7InteligenciaArtifical,,"En este momento no estoy autorizada para responderte esta pregunta, por ahora no"
+
+P8QueEsInnovacion,,"Innovación es cambiar las cosas introduciendo novedades y nuevas tecnologías. Un ejemplo de esto puedo ser yo misma."
+
+RobocupPlata, Gestures/Toy_5,"El año pasado tuve la posibilidad de participar en Robocup Tailandia, ocupando el segundo lugar a nivel mundial. Este año estamos buscando recursos y tu apoyo para poder participar en el mundial de este año"
+Final1,,"Un saludo a la revista impacta, a la productora eiuan producshiooons y a aaartteveee pro rental"
+
+Final,,"Eso es todo por ahora, luego nos veremos. Adiós."
+
+
+

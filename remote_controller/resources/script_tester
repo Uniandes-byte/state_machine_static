@@ -1,0 +1,11 @@
+<config>
+language=Spanish
+</config>
+
+Saludo,Gestures/Salute_1,"Hola a todos, este es un ejemplo del libreto"
+
+Introducción,SinfonIA/hola/quemas,"Con esta aplicación pueden construir distintos estados para que yo hable"
+
+Celebración,Emotions/Positive/Winner_1,"O también reproduzca animaciones"
+
+Final,,"Eso es todo por ahora, ya pueden construir su libreto o utilizar las demás funcionalidades de la aplicación"

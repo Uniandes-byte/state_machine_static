@@ -1,0 +1,22 @@
+##			Camera Parameters Message
+uint8 brightness			###[0, 255] Default = 0
+uint8 contrast				###[0, 127] Default = 32
+uint8 saturation			###[0, 255] Default = 64
+int16 hue				###[-180, 180] Default = 0
+bool horizontal_flip			###[0, 1] Default = 0
+bool vertical_flip			###[0, 1] Default = 0
+bool auto_exposition			###[0, 1] Default = 1
+bool auto_white_balance			###[0, 1] Default = 1
+bool auto_gain				###[0, 1] Default = 1
+uint16 gain				###[0, 1024] Default = N/A
+uint16 exposure				###[0, 65536] Default = 64
+bool reset_camera_registers		###[0, 1] Default = 0
+uint16 blc_red_value			###[0, 4096] Default = N/A
+uint16 blc_green_value			###[0, 4096] Default = N/A
+uint16 blc_blue_value			###[0, 4096] Default = N/A
+uint8 resolution			###[0, 8] Default = 1
+uint8 fps				###[0, 30] Default = 1
+uint8 average_luminance			###[0, 255] Default = N/A
+bool auto_focus				###[0, 1] Default = 1
+bool compress				###[0, 1] Default = 0
+uint8 compression_factor		###[0, 100] Default = 97

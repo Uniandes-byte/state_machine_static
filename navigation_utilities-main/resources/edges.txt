@@ -1,0 +1,7 @@
+door,livingroom
+livingroom,office
+livingroom,intermedio1
+intermedio1,intermedio2
+intermedio1,intermedio3
+intermedio2,bedroom
+intermedio3,playroom

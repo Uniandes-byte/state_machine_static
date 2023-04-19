@@ -1,0 +1,7 @@
+<launch> 
+<node pkg="rviz" type="rviz" name="rviz" args="-d $(find remote_controller)/launch/.rviz/"> 
+</node> 
+</launch>
+> 
+</node> 
+</launch>
